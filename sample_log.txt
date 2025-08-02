@@ -1,0 +1,5 @@
+[2025-08-01 12:01] INFO User login successful - user: alice ip: 10.0.0.1
+[2025-08-01 12:02] ERROR Failed login attempt - user: bob ip: 10.0.0.2
+[2025-08-01 12:03] ERROR Failed login attempt - user: bob ip: 10.0.0.2
+[2025-08-01 12:04] ERROR Failed login attempt - user: bob ip: 10.0.0.2
+[2025-08-01 12:05] INFO User login successful - user: charlie ip: 10.0.0.3
